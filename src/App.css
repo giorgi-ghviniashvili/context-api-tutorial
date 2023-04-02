@@ -1,0 +1,35 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.center-align {
+  margin: 0 auto;
+}
+
+.input-wrap {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.input {
+  background-color: #1a1a1a;
+  border: none;
+  padding: 0.6em 1.2em;
+  margin-right: 10px;
+  border-radius: 5px;
+  font-size: 1em;
+  font-weight: 500;
+}
+
+.item {
+  font-size: 1rem;
+  padding: 8px 0px;
+  border-bottom: 0.5px solid #fafafa;
+}
+
+.remove-form {
+  margin-top: 50px;
+}
